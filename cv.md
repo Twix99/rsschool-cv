@@ -1,5 +1,5 @@
 # Timothy Mamcev 
-![Моё фото](https://sun9-72.userapi.com/impf/c840727/v840727196/7d0b0/MnbtIsXRuHU.jpg?size=1440x2160&quality=96&sign=8fff5073c751c4f60c4461a14def1ebc&type=album)
+![Моё фото](https://sun9-78.userapi.com/impf/MKFTGnIszRgAgXrlXIA1NUBMAasVPPfckpH1sQ/X-RT2BHXIOw.jpg?size=418x626&quality=95&sign=c45ee70089a6536f997684fcb4d4e681&type=album)
 
 [Telegram](https://t.me/mr_bescenno)
 
