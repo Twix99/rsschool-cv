@@ -9,7 +9,7 @@
 
 **I am a barber, but i have a great ambition to be a programmer. I think that way is good for me because i really love to get a new knowledge and make some unknown. I chose this way because here I depend on myself, my result depend on my effort.**
 
-**I have a little bit knowledge about Git, HTML and CSS**git 
+**I have a little bit knowledge about Git, HTML and CSS** 
 
 **Example of coding :** 
 
