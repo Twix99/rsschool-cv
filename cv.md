@@ -3,13 +3,14 @@
 
 [Telegram](https://t.me/mr_bescenno)
 
-Email: timoxa.mamcev@gmail.com
+**Email:** timoxa.mamcev@gmail.com
 
-Discord nickname: Timothy Mamcev  (@Twix99)
+**Discord nickname:** Timothy Mamcev  (@Twix99)
+
 ###I am a barber, but i have a great ambition to be a programmer. I think that way is good for me because i really love to get a new knowledge and make some unknown. I chose this way because here I depend on myself, my result depend on my effort.
 I have a little bit knowledge anout Git, HTML and CSS
 
-Example of coding : 
+**Example of coding :** 
 
 `function multiply(a, b){
 reset a * b`
@@ -29,9 +30,9 @@ else {x=a*b};
 return x;
 }`
 
-Work experience: none 
+**Work experience:** `https://github.com/Twix99/rsschool-cv` 
 
-Education: Course on Stepik "JS for Beginners"
+**Education:** Course on Stepik "JS for Beginners"
 
-English level: some time ago I had intermediate, but I had no practice for a long time.
+**English level:** some time ago I had intermediate, but I had no practice for a long time.
 I learned english on Advance Club.
